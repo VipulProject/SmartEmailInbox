@@ -1,0 +1,6 @@
+{
+  "name": "IntelliMail Triage",
+  "description": "AI-powered email triaging system with Gmail integration, smart classification, and communication relationship graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
